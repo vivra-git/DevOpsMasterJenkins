@@ -9,7 +9,7 @@ import java.net.URL
 
 node{
  stage('Checkout') {
- git 'https://github.com/AnjuMeleth/hello-world-java.git'
+ git 'https://github.com/vivra-git/hello-world-java.git'
 
  }
  stage('Build') {
